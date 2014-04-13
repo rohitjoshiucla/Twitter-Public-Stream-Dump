@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/dropbox-core-sdk-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/httpclient-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/signpost-commonshttp4-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rohit/masterproject/testTwitterDump/lib/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
